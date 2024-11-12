@@ -6,13 +6,13 @@ Day In The Life Of A Temple University Student
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A RenPy game where the user goes through a day in the life of a temple university student. The get to pick the majpor form 5 options: English/Psychology/Computer Science/Art History/Finance 
+A RenPy game where the user goes through a day in the life of a temple university student. They get to pick the major from 5 options: English/Psychology/Computer Science/Art History/Finance 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Our game will be like a chose/build your own edventure game, in which the user gets to chose if they want to skip class/want to go to certain classes and that will give an output of whether or not that was a good decision or not. 
-Then at the end of the day the user can see all the other instances of what couldve been. It will be executed mainly through elif/if/else statements (heopefully). It will have choice features that effect the code and in what direction it goes. 
-For example, whether you chose to talk to a friend or go to a study group would effect the outcomes of at the end of the day. At the end of the day you get a tally of how well you did based on the decions made. 
+Our game will be like a chose/build your own adventure game, in which the user gets to chose if they want to skip class/want to go to certain classes and that will give an output of whether or not that was a good decision or not. 
+Then at the end of the day the user can see all the other instances of what couldve been. It will be executed mainly through elif/if/else statements (hopefully). It will have choice features that effect the code and in what direction it goes. 
+For example, whether you choose to talk to a friend or go to a study group would effect the outcomes of at the end of the day. At the end of the day you get a tally of how well you did based on the decisions made. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -43,4 +43,3 @@ Matina Abdul, tuo87856@temple.edu, Bryan Li
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
