@@ -6,11 +6,11 @@ Day In The Life Of A Temple University Student
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A RenPy game where the user goes through a day in the life of a temple university student. The get to pick the majpor form 5 options: English/Psychology/Computer Science/Art History/Finance 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+Our game will be like a chose/build your own edventure game, in which the user gets to chose if they want to skip class/want to go to certain classes and that will give an output of whether or not that was a good decision or not. Then at the end of the day the user can see all the other instances of what couldve been. It will be executed mainly through elif/if/else statements (heopefully). 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
