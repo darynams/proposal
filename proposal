@@ -10,7 +10,9 @@ A RenPy game where the user goes through a day in the life of a temple universit
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Our game will be like a chose/build your own edventure game, in which the user gets to chose if they want to skip class/want to go to certain classes and that will give an output of whether or not that was a good decision or not. Then at the end of the day the user can see all the other instances of what couldve been. It will be executed mainly through elif/if/else statements (heopefully). 
+Our game will be like a chose/build your own edventure game, in which the user gets to chose if they want to skip class/want to go to certain classes and that will give an output of whether or not that was a good decision or not. 
+Then at the end of the day the user can see all the other instances of what couldve been. It will be executed mainly through elif/if/else statements (heopefully). It will have choice features that effect the code and in what direction it goes. 
+For example, whether you chose to talk to a friend or go to a study group would effect the outcomes of at the end of the day. At the end of the day you get a tally of how well you did based on the decions made. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -18,21 +20,26 @@ TODO, if applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+Matina Abdul, tuo87856@temple.edu, Bryan Li
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
-
-TODO
+- well have a minimum of 2-3 classes per day
+- a report at the end of the game based on the choices
+- 5 to 10 or more choices a day that influence the outcome
+- include a sort of meter for grades/sleep/hunger/relationships that changes based on the choices 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
-
-TODO
+- make a mini knock off of canvas so we could see how your choices effect the grades (ex: skiping class, studying)
+- make a phone book to show relationship info
+- more choices within the day, maybe even 2 days possibly instead of one (you can unlock a second day if you do really well on the first one)
+- make more panels/instances that depict actual studying, haning out with friends, etc...
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
-
-TODO
+- more choices within the day, maybe even 2 days possibly instead of one (you can unlock a second day if you do really well on the first one)
+- show every panel based on the choice, even something as simple as calling your mom or speaking to someone, basically just depict more of the choices instead of jsut saying you did it
+- room cutomization/more options, pick your schedule/space, like if you say yes to studying they have the choice to pick where, etc. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
